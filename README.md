@@ -12,13 +12,10 @@
 ---
 
 ## 🖼️ Preview
-[grid]
 ![Welcome Screen|690x388](https://github.com/user-attachments/assets/af6c8a3d-83e7-496e-b1c7-e5575f1e0867)
 ![Characters|690x388](https://github.com/user-attachments/assets/821ee8bf-5084-46b3-ae28-2f4fadf186e0)
 ![Locked Slots|690x388](https://github.com/user-attachments/assets/c3aed0d4-d60c-4f8c-85c4-a09a4033d466)
 ![Spawn Selector|690x388](https://github.com/user-attachments/assets/daf311b3-454f-4dbf-a9f2-2a8e17089248)
-[/grid]
-
 
 
 ## 🔥 Key Features
